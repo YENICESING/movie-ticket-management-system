@@ -1,0 +1,14 @@
+/*
+Write your variables here. All available variables can be
+found in element-ui/packages/theme-chalk/src/common/var.scss.
+For example, to overwrite the theme color:
+*/
+$--color-primary: #409EFF;
+
+/* icon font path, required */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+@import "~element-ui/packages/theme-chalk/src/index";
+//这段代码的主要作用是通过自定义 Element UI 的 SCSS 变量来修改其默认样式，然后导入 Element UI 的核心样式文件，使修改后的样式生效。
+// 这种方式可以让你在不修改 Element UI 源码的情况下，轻松定制组件库的外观，以满足项目的设计需求。例如，你可以根据项目的品牌色修改主题颜色，
+// 或者调整组件的间距、圆角等样式细节。

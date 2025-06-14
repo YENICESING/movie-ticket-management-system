@@ -1,0 +1,11 @@
+14:07:59.788 [http-nio-9231-exec-9] ERROR c.r.c.c.u.JwtUtil - [verify,44] - JwtUtil登录验证失败!
+14:07:59.789 [http-nio-9231-exec-9] ERROR c.r.c.s.r.CustomerRealm - [doGetAuthenticationInfo,66] - 用户名或密码错误(token无效或者与登录者不匹配)
+14:07:59.790 [http-nio-9231-exec-9] ERROR c.r.c.s.JwtFilter - [isAccessAllowed,50] - JwtFilter过滤验证失败
+14:08:36.125 [http-nio-9231-exec-2] ERROR c.r.c.c.u.JwtUtil - [verify,44] - JwtUtil登录验证失败!
+14:08:36.125 [http-nio-9231-exec-2] ERROR c.r.c.s.r.CustomerRealm - [doGetAuthenticationInfo,66] - 用户名或密码错误(token无效或者与登录者不匹配)
+14:08:36.125 [http-nio-9231-exec-2] ERROR c.r.c.s.JwtFilter - [isAccessAllowed,50] - JwtFilter过滤验证失败
+14:20:08.025 [http-nio-9231-exec-4] ERROR c.r.c.s.JwtFilter - [isAccessAllowed,50] - JwtFilter过滤验证失败
+14:20:21.159 [http-nio-9231-exec-4] ERROR c.r.c.s.JwtFilter - [isAccessAllowed,50] - JwtFilter过滤验证失败
+14:24:38.806 [http-nio-9231-exec-3] ERROR c.r.c.c.u.JwtUtil - [verify,44] - JwtUtil登录验证失败!
+14:24:38.806 [http-nio-9231-exec-3] ERROR c.r.c.s.r.CustomerRealm - [doGetAuthenticationInfo,66] - 用户名或密码错误(token无效或者与登录者不匹配)
+14:24:38.806 [http-nio-9231-exec-3] ERROR c.r.c.s.JwtFilter - [isAccessAllowed,50] - JwtFilter过滤验证失败
